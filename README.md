@@ -1,1 +1,0 @@
-# CS-E4580---Programming-Parallel-Computers
